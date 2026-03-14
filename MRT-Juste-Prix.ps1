@@ -1,4 +1,4 @@
-﻿[int]$randomNumber = Get-Random -Minimum 1 -Maximum 100
+[int]$randomNumber = Get-Random -Minimum 1 -Maximum 100
 
 [int]$choisis = Read-Host "Choisi un nombre entre 1 et 100"
  
